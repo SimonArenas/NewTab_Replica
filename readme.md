@@ -1,1 +1,4 @@
-﻿![New tab](https://i.imgur.com/ZtEoWnY.jpg)
+### New tab in google chrome
+
+[![](https://i.imgur.com/lGLDOtg.png)](https://i.imgur.com/lGLDOtg.png)
+
